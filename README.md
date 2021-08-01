@@ -1,1 +1,1 @@
-Jones Poject
+Jones Project
